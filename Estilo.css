@@ -1,0 +1,36 @@
+body{
+    background: #6bf;
+}
+
+h2{
+    margin: 15px;
+    margin-bottom: 5px;
+}
+
+div{
+    margin-left: 12px;
+    font-size: 18px;
+}
+
+#mainDiv{
+    border: solid blueviolet;
+    background: wheat;
+    padding: 15px 10px;
+    width: 300px;
+}
+
+hr{
+    border-color: blueviolet;
+}
+
+input{
+    margin-bottom: 5px;
+}
+
+#txtNome{
+    width: 200px;
+}
+
+input[type="number"]{
+    width: 100px;
+}
